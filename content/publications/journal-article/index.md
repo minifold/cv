@@ -43,7 +43,6 @@ tags:
   - machine learning 
   - normalizing flows
 
-- Source Themes
 featured: true
 
 hugoblox:
