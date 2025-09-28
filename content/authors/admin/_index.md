@@ -98,18 +98,27 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
+      - name: C/C++
+        description: ''
+        percent: 80
+        icon: code-bracket  
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Documentation and Literate Programming
+        description: 'Writing numpy style docstrings, using sphinx and mkdocs, and writing literate code'
         percent: 85
         icon: cloud
+      - name: Linux/Unix
+        description: ''
+        percent: 90
+        icon: computer
+      - 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,13 +147,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: University of Central Florida Provost Scholar
     url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+    date: '2018-08-22'
+    awarder: University of Central Florida
+    icon: hero/academic-cap
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+      Awarded for outstanding academic background.
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
