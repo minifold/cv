@@ -12,9 +12,11 @@ authors:
 - Siyuan Chen
 - admin
 - et. al.
-<!-- author_notes: -->
-<!-- - "Equal contribution" -->
-<!-- - "Equal contribution" -->
+- author_notes: 
+  - "Vanderbilt University"
+  - "Vanderbilt University"
+  - "UC Berkeley"
+
 date: "2024-11-15T19:00:01Z"
 
 # Schedule page publish date (NOT publication's date).
