@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Alex Cingoranelli
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Alexander
+last_name: Cingoranelli
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🔭
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,62 +23,57 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Physics Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Oregon State University
+    url: https://physics.oregonstate.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:cingoraa@oregonstate.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/minifold
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/acingo/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-2774-6922
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Black Hole Astrophysics
+  - Computational Physics
   - Reinforcement Learning
-  - AI Ethics
+  - Algorithm Design
+  - Free and Open Source Software
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Physics (Astronomy)
+    institution: Oregon State University
+    date_start: 2025-09-24
+    date_end:
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: BS Physics
+    institution: University of Central Florida
+    date_start: 2018-08-22
+    date_end: 2023-05-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.65/4.0
 
-      Specialized in machine learning and robotics.
+      Specialized in computational physics.
   - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    institution: University of Central Florida
+    date_start: 2018-08-22
+    date_end: 2023-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 3.65/4.0
 
 work:
   - position: Senior AI Research Scientist
@@ -119,7 +114,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Backpacking and Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
@@ -127,7 +122,7 @@ skills:
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Reading Sci-Fi
         description: ''
         percent: 70
         icon: book-open
