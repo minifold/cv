@@ -70,7 +70,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**EOS.org**](https://eos.org/wp-content/uploads/2024/03/12-meter-arecibo-satellite.jpg)'
   focal_point: ""
   preview_only: false
 

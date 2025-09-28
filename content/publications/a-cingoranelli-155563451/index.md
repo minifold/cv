@@ -2,16 +2,17 @@
 title: Exploring RFI Reduction Techniques on CH 3.3 GHz Observations using the Arecibo
   Observatory 12-Meter Telescope
 authors:
-- A. Cingoranelli
-- Alexander Cingoranelli
+- admin
 - Emmanuel Morales Butler
 - Allison Smith
 - D. Anish Roshi
 - Phil Perillat
-date: '2024-01-01'
+
+date: '2024-02-01'
 publishDate: '2025-09-28T15:36:18.434724Z'
 publication_types:
 - paper-conference
+
 publication: '*American Astronomical Society Meeting Abstracts*'
 publication_short: 'AAS'
 
@@ -23,6 +24,13 @@ tags:
   - radio frequency interference mitigation
 
 featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**EOS.org**](https://eos.org/wp-content/uploads/2024/03/12-meter-arecibo-satellite.jpg)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
