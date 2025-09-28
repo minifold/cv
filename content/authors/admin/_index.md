@@ -117,8 +117,8 @@ skills:
       - name: Linux/Unix
         description: ''
         percent: 90
-        icon: computer
-      - 
+        icon: 
+  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
