@@ -69,6 +69,7 @@ education:
 
       Specialized in computational physics. Capstone project focused on updating the EZ-RASSOR autonomous regolith mining robot to ROS 2.0.
 Graduated with Honors.
+
   - area: BS Computer Science
     institution: University of Central Florida
     date_start: 2018-08-22
