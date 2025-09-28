@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: '👽 About Me'
+        about: 'About'
         education: ''
         interests: ''
     design:
@@ -31,7 +31,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
@@ -65,7 +65,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Presentations 
       filters:
         folders:
           - events
