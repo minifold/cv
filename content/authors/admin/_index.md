@@ -54,20 +54,20 @@ education:
   - area: PhD Physics (Astronomy)
     institution: Oregon State University
     date_start: 2025-09-24
-    date_end:
+    date_end: ''
     summary: |
       PhD currently in progress. Working with [Dr. Sanjana Curtis](https://physics.oregonstate.edu/directory/sanjana-curtis) on mergers of neutron star-neutron star and neutron star-black hole binaries.
-#    button:
-#      text: 'Read Papers'
-#      url: 'https://example.com/paper.pdf'
+    button:
+      text: 'Read Papers'
+      url: 'https://example.com/paper.pdf'
+
   - area: BS Physics
     institution: University of Central Florida
     date_start: 2018-08-22
     date_end: 2023-05-31
     summary: |
       GPA: 3.65/4.0
-      Specialized in computational physics. Capstone project focused on updating the EZ-RASSOR autonomous regolith mining robot to ROS 2.0.
-    Graduated with Honors.
+      Specialized in computational physics. Capstone project focused on updating the 'EZ-RASSOR' autonomous regolith mining robot to ROS 2.0. Graduated with Honors.
 
   - area: BS Computer Science
     institution: University of Central Florida
@@ -86,20 +86,20 @@ work:
     date_end: ''
     summary: |2-
       Teaching introduction to physics laboratories exploring fundamentals of movement and introductory newtonian physics.
-      Tutoring students one-on-one in the “wormhole” a department-led undergraduate tutoring effort
+      Tutoring students one-on-one in the “wormhole,” part of a department-led undergraduate tutoring effort to better mentor students in physics.
+  
   - position: Software Development Lead
     company_name: University of Central Florida College for Research of Optics and Photonics
-    company_url: 'https://openai.com/'
+    company_url: 'https://creol.ucf.edu/'
     company_logo: ''
     date_start: 2019-06-01
     date_end: 2019-12-31
     summary: |
-      Mentored and managed several undergraduates on a large scale research software project involving telescope
-instrumentation for optical astronomy.
+      Mentored and managed several undergraduates on a large scale research software project involving telescope instrumentation for optical astronomy.
       Used the Jetson Orin Nano for Computer Vision using CUDA.
-      Employed usage and understanding of various commercial off the shelf electronics such as Arduinos as part of systems
-testing.
+      Employed usage and understanding of various commercial off the shelf electronics such as Arduinos as part of systems testing.
       Worked with Java/Maven and Python for controlling the telescopes using an interface with the C++ INDI libraries.
+  
   - position: Undergraduate Researcher
     company_name: Arecibo Observatory
     company_url: 'https://science.nrao.edu/'
@@ -110,8 +110,7 @@ testing.
       Worked with multiple researchers and engineers to observe using the 12-meter radio telescope at Arecibo,
       Observed radio telescope data and synthesized data using various analysis techniques.
       Wrote scripts in IDL and Python for data analysis of radio spectral data.
-      Wrote computational algorithms in Python to aid in the process of cleaning and excising noise from observations using the
-telescope.
+      Wrote computational algorithms in Python to aid in the process of cleaning and excising noise from observations using the telescope.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
