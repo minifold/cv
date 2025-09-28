@@ -20,7 +20,7 @@ authors:
 date: "2024-11-15T19:00:01Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2050-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -43,7 +43,7 @@ tags:
   - machine learning 
   - normalizing flows
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
