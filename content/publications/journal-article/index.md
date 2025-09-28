@@ -36,7 +36,13 @@ abstract: While supermassive black-hole (SMBH)-binaries are not the only viable 
 # Summary. An optional shortened abstract.
 summary: We demonstrated how normalizing flows (NFs) can outperform GPs in being an emulator of the ensemble distribution (over many Universes) of the GWB characteristic-strain. Through the use of holodeck’s phenomenological binary evolution library, we were able to train an NF capable of emulating the connection between a GWB’s characteristic-strain and the demographic and dynamical properties governing a population of SMBH-binaries. The connection is one-directional, meaning that our emulator is capable of generating and assign probability to GWB characteristic-strain ensemble distributions given specific values of binary evolution parameters.
 
-tags: supermassive black-holes, pulsar timing arrays, gravitational wave background, machine learning, normalizing flows
+tags: 
+  - supermassive black-holes
+  - pulsar timing arrays
+  - gravitational wave background 
+  - machine learning 
+  - normalizing flows
+
 - Source Themes
 featured: true
 
