@@ -13,7 +13,7 @@ last_name: Cingoranelli
 pronouns: he/him
 
 # Status emoji
-status:
+status: 
   icon: 🔭
 
 # Is this the primary user of the site?
@@ -56,10 +56,10 @@ education:
     date_start: 2025-09-24
     date_end:
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      PhD currently in progress. Working with [Dr. Sanjana Curtis](https://physics.oregonstate.edu/directory/sanjana-curtis) on mergers of neutron star-neutron star and neutron star-black hole binaries.
+#    button:
+#      text: 'Read Papers'
+#      url: 'https://example.com/paper.pdf'
   - area: BS Physics
     institution: University of Central Florida
     date_start: 2018-08-22
@@ -67,7 +67,8 @@ education:
     summary: |
       GPA: 3.65/4.0
 
-      Specialized in computational physics. Graduated with Honors.
+      Specialized in computational physics. Capstone project focused on updating the EZ-RASSOR autonomous regolith mining robot to ROS 2.0.
+Graduated with Honors.
   - area: BS Computer Science
     institution: University of Central Florida
     date_start: 2018-08-22
@@ -77,22 +78,40 @@ education:
       Specialized in Machine Learning. Graduated with Honors.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Graduate Teaching Assistant
+    company_name: Oregon State University
+    company_url: 'https://physics.oregonstate.edu/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-24
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
+      Teaching introduction to physics laboratories exploring fundamentals of movement and introductory newtonian physics.
+      Tutoring students one-on-one in the “wormhole” a department-led undergraduate tutoring effort
+  - position: Software Development Lead
+    company_name: University of Central Florida College for Research of Optics and Photonics
     company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2019-06-01
     date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Mentored and managed several undergraduates on a large scale research software project involving telescope
+instrumentation for optical astronomy.
+      Used the Jetson Orin Nano for Computer Vision using CUDA.
+      Employed usage and understanding of various commercial off the shelf electronics such as Arduinos as part of systems
+testing.
+      Worked with Java/Maven and Python for controlling the telescopes using an interface with the C++ INDI libraries.
+  - position: Undergraduate Researcher
+    company_name: Arecibo Observatory
+    company_url: 'https://science.nrao.edu/'
+    company_logo: ''
+    date_start: 2022-08-20
+    date_end: '2024-02-01'
+    summary: |
+      Worked with multiple researchers and engineers to observe using the 12-meter radio telescope at Arecibo,
+      Observed radio telescope data and synthesized data using various analysis techniques.
+      Wrote scripts in IDL and Python for data analysis of radio spectral data.
+      Wrote computational algorithms in Python to aid in the process of cleaning and excising noise from observations using the
+telescope.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -141,7 +160,7 @@ languages:
   - name: English
     percent: 100
   - name: Spanish
-    percent: 50
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -162,13 +181,13 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+  - title: Florida-Georgia Louis Stokes Alliance for Minority Participation Scholar
+    url: https://www.nsf.gov/funding/opportunities/lsamp-louis-stokes-alliances-minority-participation
+    date: '2021-08-20'
+    awarder: University of Central Florida
+    icon: hero/currency-dollar
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Recognized for minority contributions to the fields of science and engineering.
 ---
 
 Alex is a current graduate student at Oregon State University in Corvallis, where he studies physics with a focus in astronomy. His research interests are in black hole astrophysics, specifically studying the properties of compact objects, population dynamics, and numerical relativity. His goal is to work on simulating the emergent properties of primordial black holes and to study the evolution of supermassive black hole binaries using the NANOGrav 20-year dataset. He is proficient in applying machine learning paradigms to astrophysical problems, with a robust background in computer programming and algorithmic design. Alex is passionate about reproducible research and utilizing free and open source software in scientific development, as well as modernizing scientific computing. Outside of work, he enjoys gravel and mountain biking, building custom PCs, working on old Toyotas, and drawing.
