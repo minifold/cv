@@ -67,13 +67,14 @@ education:
     summary: |
       GPA: 3.65/4.0
 
-      Specialized in computational physics.
+      Specialized in computational physics. Graduated with Honors.
   - area: BS Computer Science
     institution: University of Central Florida
     date_start: 2018-08-22
     date_end: 2023-05-31
     summary: |
       GPA: 3.65/4.0
+      Specialized in Machine Learning. Graduated with Honors.
 
 work:
   - position: Senior AI Research Scientist
@@ -170,4 +171,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Alex is a current graduate student at Oregon State University in Corvallis, where he studies physics with a focus in astronomy. His research interests are in black hole astrophysics, specifically studying the properties of compact objects, population dynamics, and numerical relativity. His goal is to work on simulating the emergent properties of primordial black holes and to study the evolution of supermassive black hole binaries using the NANOGrav 20-year dataset. He is proficient in applying machine learning paradigms to astrophysical problems, with a robust background in computer programming and algorithmic design. Alex is passionate about reproducible research and utilizing free and open source software in scientific development, as well as modernizing scientific computing. Outside of work, he enjoys gravel and mountain biking, building custom PCs, working on old Toyotas, and drawing.
