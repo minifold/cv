@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here are some of the projects that I have worked on: not all of them are physics related. 
+      text: Here are some of the projects that I have worked on -- not all of them are physics related. 
       filters:
         folders:
           - projects
