@@ -25,14 +25,13 @@ authors:
 - Tyler Thomas
 - Vincent Miller
 - Madigan Roozen
-- Alexander Cingoranelli
+- admin 
 - Noor Salem
 date: '2023-10-01'
 publishDate: '2025-09-28T15:36:18.441027Z'
 publication_types:
 - paper-conference
-publication: '*UV/Optical/IR Space Telescopes and Instruments: Innovative Technologies
-  and Concepts XI*'
+publication: '*UV/Optical/IR Space Telescopes and Instruments: Innovative Technologies and Concepts XI*'
 doi: 10.1117/12.2677758
 links:
 - name: URL
