@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are some of the projects that I have worked on: not all of them are physics related. 
       filters:
         folders:
           - projects
@@ -20,7 +20,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-      show_date: false
+      show_date: true
       show_read_time: false
       show_read_more: false
 ---
