@@ -111,6 +111,28 @@ work:
       Observed radio telescope data and synthesized data using various analysis techniques.
       Wrote scripts in IDL and Python for data analysis of radio spectral data.
       Wrote computational algorithms in Python to aid in the process of cleaning and excising noise from observations using the telescope.
+  - position: Software Engineering Intern
+    company_name: NASA Kennedy Space Center 
+    company_url: 'https://nasa.gov/kennedy'
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-20
+    summary: |
+      Developed the telemetry retrieval software of the rocket launch control software suite to be used by various launch
+      vehicles and ground support equipment as part of the Artemis mission.
+      Wrote documentation for the full software stack, including for existing modules written by senior developers using C, C++. 
+      Captured and analyzed telemetry data from various SLS components using Wireshark.
+  - position: ML Software Developer 
+    company_name: USEncryption, Inc
+    company_url: 'https://usencryption.com'
+    company_logo: ''
+    date_start: 2022-04-01
+    date_end: 2023-01-07
+    summary: |
+      Developed machine learning algorithms and paradigms in python for use in encrypted data structures.
+      Reverse-engineered popular python packages such as Pandas and Numpy to work with the novel encrypted data type.
+      Contributed to development of novel methods of encryption “as a service”.
+      Programming languages used: C++, Python (Numpy, Pandas, Pytorch, Keras)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -124,7 +146,11 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: code-bracket  
+        icon: code-bracket 
+      - name: Git
+        description: ''
+        percent: 70
+        icon: 
       - name: Machine Learning
         description: ''
         percent: 100
@@ -134,7 +160,7 @@ skills:
         percent: 85
         icon: cloud
       - name: Linux/Unix
-        description: ''
+        description: 'Debian-based systems e.g. Ubuntu, Pop!, Arch, NixOS, BSD, AIX'
         percent: 90
         icon: 
   
