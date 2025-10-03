@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: indigo
+  mode: dark
+  color: teal
 
 # SEO
 marketing:
@@ -34,6 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight-active-link: true
     logo:
       text: 'Your Name'
 
