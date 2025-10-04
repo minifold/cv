@@ -150,7 +150,7 @@ skills:
       - name: Git
         description: ''
         percent: 70
-        icon: 
+        icon: code-branch 
       - name: Machine Learning
         description: ''
         percent: 100
@@ -158,11 +158,11 @@ skills:
       - name: Documentation and Literate Programming
         description: 'Writing numpy style docstrings, using sphinx and mkdocs, and writing literate code'
         percent: 85
-        icon: cloud
+        icon: pen-to-square
       - name: Linux/Unix
         description: 'Debian-based systems e.g. Ubuntu, Pop!, Arch, NixOS, BSD, AIX'
         percent: 90
-        icon: 
+        icon: linux 
   
   - name: Hobbies
     color: '#eeac02'
@@ -172,7 +172,11 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Biking
+        description: 'Before graduate school I was a bike mechanic. I still enjoy wrenching on bikes!'
+        percent: 50
+        icon: bicycle
+      - name: Building mini PCs
         description: ''
         percent: 90
         icon: cpu-chip
@@ -193,19 +197,19 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: University of Central Florida Provost Scholar
-    url: https://neurips.cc/
+    url: https://www.ucf.edu/financial-aid/types/scholarships/provost/
     date: '2018-08-22'
     awarder: University of Central Florida
     icon: hero/academic-cap
     summary: |
       Awarded for outstanding academic background.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+  - title: Florida Academic Scholar
+    url: https://www.floridabrightfutures.gov/
+    date: '2018-08-22'
+    awarder: Florida Department of Education
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
+      Full tuition reimbursement for 4 years of undergraduate education including summer classes.
   - title: Florida-Georgia Louis Stokes Alliance for Minority Participation Scholar
     url: https://www.nsf.gov/funding/opportunities/lsamp-louis-stokes-alliances-minority-participation
     date: '2021-08-20'
