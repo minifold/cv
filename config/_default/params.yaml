@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: teal
+  color: slate
 
 # SEO
 marketing:
@@ -34,9 +34,10 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    highlight-active-link: true
+    highlight_active_link: true
     logo:
-      text: 'Your Name'
+      filename: 'icon.png'
+      text: ''
 
 # Site footer
 footer:
