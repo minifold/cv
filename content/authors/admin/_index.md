@@ -56,7 +56,7 @@ education:
     date_start: 2025-09-24
     date_end: ''
     summary: |
-      PhD currently in progress. Working with [Dr. Sanjana Curtis](https://physics.oregonstate.edu/directory/sanjana-curtis) on mergers of neutron star-neutron star and neutron star-black hole binaries.
+      PhD currently in progress. Working with [Dr. Xavier Siemens](https://physics.oregonstate.edu/directory/xavier-siemens) on population synthesis of mergers of supermassive black hole binaries (SMBHBs) via `holodeck`.
     button:
       text: 'Read Papers'
       url: 'https://example.com/paper.pdf'
@@ -219,4 +219,4 @@ awards:
       Recognized for minority contributions to the fields of science and engineering.
 ---
 
-Alex is a current graduate student at Oregon State University in Corvallis, where he studies physics with a focus in astronomy. His research interests are in black hole astrophysics, specifically studying the properties of compact objects, population dynamics, and numerical relativity. His goal is to work on simulating the emergent properties of primordial black holes and to study the evolution of supermassive black hole binaries using the NANOGrav 20-year dataset. He is proficient in applying machine learning paradigms to astrophysical problems, with a robust background in computer programming and algorithmic design. Alex is passionate about reproducible research and utilizing free and open source software in scientific development, as well as modernizing scientific computing. Outside of work, he enjoys gravel and mountain biking, building custom PCs, working on old Toyotas, and drawing.
+Alex is a current graduate student at Oregon State University in Corvallis, where he studies physics with a focus in astronomy. His research interests are in black hole astrophysics, specifically studying the properties of compact objects, population dynamics, and numerical relativity. His goal is to work on simulating the emergent properties of primordial black holes and to study the evolution of supermassive black hole binaries using the NANOGrav 15-year dataset. He is proficient in applying machine learning paradigms to astrophysical problems, with a robust background in computer programming and algorithmic design. Alex is passionate about reproducible research and utilizing free and open source software in scientific development, as well as modernizing scientific computing. Outside of work, he enjoys gravel and mountain biking, building custom PCs, working on old Toyotas, and drawing.
